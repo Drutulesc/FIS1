@@ -31,7 +31,7 @@ public class Main {
         Procesor c3 = new ProcesorCautare("text2");
 
         ProcesorCompus pc1 = new ProcesorCompus();
-        pc1.adaugaProcesor(c1);
+        pc1.adaugaProcesor(c3);
         pc1.adaugaProcesor(c2);
 
         ProcesorCompus pc2 = new ProcesorCompus();
